@@ -23,8 +23,10 @@ These screens are financial criteria that purportedly indicate if a stock is 'un
  This is my first endevour into a self-organised project after many tutorials, and as such has many areas for improvement.
  
  -The layout is unintuitive as the prodominant use case of the app (portfolio management) is in a subwindow.
+ 
  -The use of Tkinter grately limits the aesthetics of the application, as does my inexperience in UI design.
- -The code is ineffcient and seems to take a long time to perform seemingly simple tasks.
+ 
+ -The code is ineffcient and takes a long time to perform seemingly simple tasks.
  
  -I plan to reuse some of the functions from this program in the creation of a Flask/Chart.js Dashboard project that will go someway to solving the first two areas for improvement.
 
